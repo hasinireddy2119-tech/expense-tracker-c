@@ -1,14 +1,23 @@
 # Expense Tracker in C
 
-A simple console-based Expense Tracker application built using C.
+A console-based Expense Tracker application developed in C to record and manage expenses.
 
 ## Features
-- Add Expenses
-- View Expenses
-- Calculate Total Spending
-- Save Data Using File Handling
+
+- Add new expenses
+- View total expenses
+- Menu-driven interface
+- Simple and user-friendly
 
 ## Technologies Used
+
 - C Programming
-- Structures
-- File Handling
+- Functions
+- Loops
+- Conditional Statements
+
+## How to Run
+
+```bash
+gcc main.c -o expense
+./expense
