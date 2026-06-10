@@ -21,3 +21,32 @@ A console-based Expense Tracker application developed in C to record and manage 
 ```bash
 gcc main.c -o expense
 ./expense
+```
+
+## Project Structure
+
+```text
+expense-tracker-c/
+├── main.c
+├── README.md
+├── LICENSE
+├── .gitignore
+└── screenshots/
+    └── output.png
+```
+
+## Screenshot
+
+![Expense Tracker Output]
+
+## Future Improvements
+
+- File Handling
+- Expense Categories
+- Date-wise Tracking
+- Monthly Reports
+- Search Expenses
+
+## Author
+
+Hasini
