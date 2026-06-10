@@ -1,3 +1,8 @@
+/*
+ Expense Tracker in C
+ Author: Hasini
+ Description: A simple console-based application to track expenses.
+*/
 #include <stdio.h>
 
 int main() {
