@@ -40,6 +40,14 @@ expense-tracker-c/
 ![Expense Tracker Output](Screenshot 2026-06-10 134805.png)
 
 
+## Version History
+
+### v1.0
+- Add Expense
+- View Total Expense
+- Menu Driven Program
+
+
 ## Future Improvements
 
 - File Handling
