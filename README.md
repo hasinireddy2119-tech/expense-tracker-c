@@ -37,7 +37,8 @@ expense-tracker-c/
 
 ## Screenshot
 
-![Expense Tracker Output]
+![Expense Tracker Output](Screenshot 2026-06-10 134805.png)
+
 
 ## Future Improvements
 
